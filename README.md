@@ -1,1 +1,1 @@
-# sentenceExtraction_with_Article
+# 기사 데이터를 이용한 피해 관련 문장 추출
