@@ -12,4 +12,4 @@
 * XGBoost
 * LSTM
 * 1D-CNN
-* Associative Classification based on Transferable belief Model
+* [Associative Classification based on Transferable belief Model](https://www.sciencedirect.com/science/article/pii/S0950705119302758)
