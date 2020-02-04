@@ -13,3 +13,6 @@
 * LSTM
 * 1D-CNN
 * [Associative Classification based on Transferable belief Model](https://www.sciencedirect.com/science/article/pii/S0950705119302758)
+
+### Paper
+* [Project Paper](https://drive.google.com/file/d/1GQm_KqViBHV_5o4k6m0wlPfaLvpRRkxR/view?usp=sharing)
