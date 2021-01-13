@@ -36,7 +36,7 @@ mlxtend >=0.17.0
 ## 파일 설명
 1) preprocessing.ipynb \& preprocessing_Ensemble.ipynb
 
-빈 텍스트 제거, Stop word 제거, 품사 태깅
+  빈 텍스트 제거, Stop word 제거, 품사 태깅
 
 2) Sentence_classification.ipynb
 
