@@ -34,23 +34,23 @@ mlxtend >=0.17.0
 |4|중국 남동부 일대에 연일 불볕 더위가 이어지면서 열사병으로 20여 명이 숨진 것으로 파악됐습니다.|1|
 
 ## 파일 설명
-1) preprocessing.ipynb \& preprocessing_Ensemble.ipynb
+#### 1) preprocessing.ipynb \& preprocessing_Ensemble.ipynb
 
     빈 텍스트 제거, Stop word 제거, 품사 태깅
 
-2) Sentence_classification.ipynb
+#### 2) Sentence_classification.ipynb
 
     벡터화(Word2Vec, Doc2Vec, Fasttext) 및 분류 모델(LSTM, 1D-CNN, XGBoost) 생성
 
-3) sentence_utility.py
+#### 3) sentence_utility.py
 
     1), 2)에 필요한 함수 구현
 
-4) Associative_classification(TBM).ipynb
+#### 4) Associative_classification(TBM).ipynb
 
     연관 분류 모델('Associative classification based on the Transferable Belief Model') 생성 
 
-5) Predict.ipynb
+#### 5) Predict.ipynb
 
     생성된 모델들을 통해 적용 및 성능 평가
 
