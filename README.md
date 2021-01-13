@@ -57,5 +57,5 @@ mlxtend >=0.17.0
 
 ## 기여자
 
-* [양동욱](dongwook412@naver.com)
-* [황보성훈](thehb01@gmail.com)
+* 양동욱(dongwook412@naver.com)
+* 황보성훈(thehb01@gmail.com)
