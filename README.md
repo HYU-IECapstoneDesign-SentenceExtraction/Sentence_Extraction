@@ -48,8 +48,11 @@ mlxtend >=0.17.0
 
 4) Associative_classification(TBM).ipynb
 
+    연관 분류 모델('Associative classification based on the Transferable Belief Model') 생성 
+
 5) Predict.ipynb
 
+    생성된 모델들을 통해 적용 및 성능 평가
 
 ### 테스트는 이런 식으로 동작합니다
 
