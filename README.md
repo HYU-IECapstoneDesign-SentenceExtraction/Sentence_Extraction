@@ -12,22 +12,23 @@
 python 3.6 이상
 
 ```
-numpy 1.16.0 이상
-sklearn 0.20.1 이상
-
+numpy >=1.16.0
+pandas >=0.24.2
+sklearn >=0.20.1
+gensim >=3.8.0
+konlpy >=0.5.1
+keras >=2.2.5
+xgboost >=0.82
+mlxtend >=0.17.0
 ```
 
-### 설치 방법
+## 파일 설명
+1) preprocessing.ipynb & preprocessing_Ensemble.ipynb
 
-아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
 
-```
-예시
-```
+Sentence_classification.ipynb
 
-## Running the tests / 테스트의 실행
 
-어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
 
 ### 테스트는 이런 식으로 동작합니다
 
