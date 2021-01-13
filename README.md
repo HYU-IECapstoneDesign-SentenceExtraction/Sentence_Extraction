@@ -36,15 +36,15 @@ mlxtend >=0.17.0
 ## 파일 설명
 1) preprocessing.ipynb \& preprocessing_Ensemble.ipynb
 
-  빈 텍스트 제거, Stop word 제거, 품사 태깅
+    빈 텍스트 제거, Stop word 제거, 품사 태깅
 
 2) Sentence_classification.ipynb
 
-벡터화(Word2Vec, Doc2Vec, Fasttext) 및 분류 모델(LSTM, 1D-CNN, XGBoost) 생성
+    벡터화(Word2Vec, Doc2Vec, Fasttext) 및 분류 모델(LSTM, 1D-CNN, XGBoost) 생성
 
 3) sentence_utility.py
 
-1), 2)에 필요한 함수 구현
+    1), 2)에 필요한 함수 구현
 
 4) Associative_classification(TBM).ipynb
 
